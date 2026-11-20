@@ -4,5 +4,5 @@
 
 A job-search companion that lives on your computer: chat, daily plans, LeetCode sync and interview notes, with your data stored locally.
 
-- Website: https://elainz.github.io/ling/
-- Download (Windows 10 / 11, x64): see [Releases](https://github.com/ELAINZ/ling/releases)
+- Website: https://elainz.github.io/Ling-Career-Agent/
+- Download (Windows 10 / 11, x64): see [Releases](https://github.com/ELAINZ/Ling-Career-Agent/releases)
